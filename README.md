@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋
+
+Say hi here: [LinkedIn](https://www.linkedin.com/in/harkamaljit)
+
+
+
+<!--
+<img align="left" alt="Some stats" src="https://github-readme-stats.vercel.app/api?username=harkamalsi&show_icons=true&hide_border=true&hide=issues,stars&count_private=true" />
+-->
 
 <!--
 **harkamalsi/harkamalsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
